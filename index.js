@@ -1,3 +1,3 @@
 function alertUser(){
-  alert('User clicked a button');
+  window.alert("User clicked a button");
 }
